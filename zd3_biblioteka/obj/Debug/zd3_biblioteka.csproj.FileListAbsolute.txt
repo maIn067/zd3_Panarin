@@ -1,0 +1,6 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\zd3_panarin\zd3_biblioteka\bin\Debug\zd3_biblioteka.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\zd3_panarin\zd3_biblioteka\bin\Debug\zd3_biblioteka.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\zd3_panarin\zd3_biblioteka\obj\Debug\zd3_biblioteka.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\zd3_panarin\zd3_biblioteka\obj\Debug\zd3_biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\zd3_panarin\zd3_biblioteka\obj\Debug\zd3_biblioteka.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\zd3_panarin\zd3_biblioteka\obj\Debug\zd3_biblioteka.pdb
